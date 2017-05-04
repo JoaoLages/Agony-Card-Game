@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Agony</string>
+    <string name="begin_game">Begin Game</string>
+    <string name="play_2">GAME</string>
+    <string name="suitsign">SUIT: </string>
+    <string name="suits_clubs">CLUBS</string>
+    <string name="suits_hearts">HEARTS</string>
+    <string name="suits_diamonds">DIAMONDS</string>
+    <string name="suits_spades">SPADES</string>
+    <string name="desc">FACE UP CARD</string>
+    <string name="desc2">FACE DOWN CARD</string>
+    <string name="suits_ok">OK</string>
+    <string name="players_4">4 players</string>
+    <string name="players_3">3 players</string>
+    <string name="players_2">2 players</string>
+    <string name="create_g">Create Group</string>
+    <string name="refresh">REFRESH</string>
+    <string name="direct_title">Select 1 peer from the detected peers shown at the list below, and then press GAME button in order to begin a game with that peer.</string>
+    <string name="invitations">Invitations: The peers that appear at the list have created their own game group, and broadcasted this information to you. Touch an invitation from a peer in order to accept it and begin a new game, if the group has not formed yet. Press the REFRESH button to update your invitations list.</string>
+    <string name="invitation_title">Create a group: Select the number of players that you want for your group, press the Create Group buttom and wait for the your peers to see you service. As soon as the selected number of peers has joined your group, you will begin a new game.</string>
+</resources>
